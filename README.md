@@ -80,5 +80,5 @@ Sou criativa, gosto de aprender coisas novas, amo estilizar tudo, sempre me iden
   />
 
 > [!TIP]
-> 📝 [Meu currículo atualizado](https://github.com/user-attachments/files/18845253/curriculo.pdf)
+> 📝 [Meu currículo](https://github.com/user-attachments/files/18845253/curriculo.pdf)
 
