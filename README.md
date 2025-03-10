@@ -69,6 +69,3 @@ Sou criativa, gosto de aprender coisas novas, amo estilizar tudo, sempre me iden
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrafsales&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-> [!TIP]
-> 📝 [Currículo](https://github.com/user-attachments/files/18845253/ALESSANDRASALES.pdf)
