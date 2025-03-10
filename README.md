@@ -71,4 +71,4 @@ Sou criativa, gosto de aprender coisas novas, amo estilizar tudo, sempre me iden
   />
 
 > [!TIP]
-> 📝 [Meu currículo](https://github.com/user-attachments/files/18845253/ALESSANDRASALES.pdf)
+> 📝 [Currículo](https://github.com/user-attachments/files/18845253/ALESSANDRASALES.pdf)
