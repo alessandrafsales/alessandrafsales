@@ -2,7 +2,7 @@
 
 Hello ✨
 
-Eu sou a Alê, tenho 24 anos, e estou em transição de área na T.I para programação, como uma desenvolvedora front-end.
+Eu sou a Alê, tenho 24 anos, e estou em transição de área na T.I para trabalhar com programação.
 
 Amo tecnologia e meu início nessa jornada se deu em 2015 quando comecei meu curso de Redes de Computadores, curso profissionalizante junto do ensino médio, tive a oportunidade de ingressar em um estágio e fui contratada pela empresa, meu primeiro emprego em T.I.
 
