@@ -4,11 +4,13 @@ Hello ✨
 
 Eu sou a Alê, tenho 24 anos, e estou em transição de área na T.I para trabalhar com programação.
 
-Amo tecnologia e meu início nessa jornada se deu em 2015 quando comecei meu curso de Redes de Computadores, curso profissionalizante junto do ensino médio, tive a oportunidade de ingressar em um estágio e fui contratada pela empresa, meu primeiro emprego em T.I.
+Amo tecnologia e meu início nessa jornada se deu em 2015 quando comecei meu curso de Redes de Computadores, curso profissionalizante integrado ao ensino médio, tive a oportunidade de estagiar e fui contratada pela empresa, foi meu primeiro emprego em T.I.
 
 Obtive experiências no ramo de telecomunicações, porém concluí a faculdade de Sistemas de Informação, que é a área em que pretendo prosseguir.
 
 Sou criativa, gosto de aprender coisas novas, amo estilizar tudo, sempre me identifiquei com essa parte de deixar tudo bonitinho e atraente para quem vai ver, como por exemplo, meus slides da escola, sempre era um show. 💕
+
+Tenho interesse na área de Front-End, porém continuei meus estudos na área de Análise de Dados. 
 
 ## < Linguagens e Tecnologias >
 > Em constante evolução..
