@@ -1,16 +1,11 @@
 # 👩🏻‍💻 Alessandra Sales
 
-Hello ✨
-
-Eu sou a Alê, tenho 24 anos, e estou em transição de área na T.I para trabalhar com programação.
-
+Olá ✨
 Amo tecnologia e meu início nessa jornada se deu em 2015 quando comecei meu curso de Redes de Computadores, curso profissionalizante integrado ao ensino médio, tive a oportunidade de estagiar e fui contratada pela empresa, foi meu primeiro emprego em T.I.
 
-Obtive experiências no ramo de telecomunicações, porém concluí a faculdade de Sistemas de Informação, que é a área em que pretendo prosseguir.
+Obtive experiências no ramo de telecomunicações e concluí a graduação de Sistemas de Informação.
 
-Sou criativa, gosto de aprender coisas novas, amo estilizar tudo, sempre me identifiquei com essa parte de deixar tudo bonitinho e atraente para quem vai ver, como por exemplo, meus slides da escola, sempre era um show. 💕
-
-Tenho interesse na área de Front-End, porém continuei meus estudos na área de Análise de Dados. 
+Iniciei os estudos em programação na área de front-end, porém comecei um curso de Análise de Dados e me interessei bastante na carreira. 📊 🎲
 
 ## < Linguagens e Tecnologias >
 > Em constante evolução..
