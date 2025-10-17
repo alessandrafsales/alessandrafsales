@@ -1,11 +1,6 @@
 # 👩🏻‍💻 Alessandra Sales
 
-Olá ✨
-Amo tecnologia e meu início nessa jornada se deu em 2015 quando comecei meu curso de Redes de Computadores, curso profissionalizante integrado ao ensino médio, tive a oportunidade de estagiar e fui contratada pela empresa, foi meu primeiro emprego em T.I.
-
-Obtive experiências no ramo de telecomunicações e concluí a graduação de Sistemas de Informação.
-
-Iniciei os estudos em programação na área de front-end, porém comecei um curso de Análise de Dados e me interessei bastante na carreira. 📊 🎲
+A tecnologia é sobre evolução, não apenas das ferramentas, mas das pessoas. Por isso, estou sempre em busca de aprendizado, crescimento e oportunidades para aplicar meus conhecimentos e gerar resultados reais. 📊 🎲
 
 ## < Linguagens e Tecnologias >
 > Em constante evolução..
