@@ -59,6 +59,11 @@ A tecnologia é sobre evolução, não apenas das ferramentas, mas das pessoas. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png
+
+
 <br><br>
 
 ## 📊 Estatísticas 
