@@ -59,9 +59,15 @@ A tecnologia é sobre evolução, não apenas das ferramentas, mas das pessoas. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png)" 
+/>
 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png
 
 
 <br><br>
