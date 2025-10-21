@@ -65,7 +65,7 @@ A tecnologia é sobre evolução, não apenas das ferramentas, mas das pessoas. 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png)" 
+    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://images.seeklogo.com/logo-png/29/1/microsoft-sql-server-logo-png_seeklogo-298266.png)](https://www.svgrepo.com/show/331760/sql-database-generic.svg)" 
 />
 
 
